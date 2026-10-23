@@ -41,4 +41,4 @@ build: 82
 # sha256 of the build inputs as of this version number - see
 # tools/check_font_version.py. Refresh with:
 #   python3 tools/check_font_version.py --update
-inputsHash: "739f73c1d56fc22c39571a3a03754aa36000fae71c60c023d030358bbc407dd6"
+inputsHash: "7ced42639f28d06f1a8d49c185bef6e389380b688344f95ea8abf1c597454f36"
