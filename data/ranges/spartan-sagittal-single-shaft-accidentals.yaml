@@ -7,7 +7,7 @@ codepointRangeEnd: U+E30F
 hidden: false
 glyphs:
 - name: accSagittal5v7KleismaUp
-  description: 5:7 kleisma up, (5:7k, ~11:13k, 7C less 5C)
+  description: 5:7 kleisma up, (5:7k, ~11:13k, 7C less 5C)
   classes:
   - accidentals
   - accidentalsSagittalMixed
@@ -43,7 +43,7 @@ glyphs:
   - accidentalsSagittalMixed
   - combiningStaffPositions
 - name: accSagittal25SmallDiesisUp
-  description: 25 small diesis up, (25S, ~5:13S, ~37S, 5C plus 5C), 2° up [53 EDO]
+  description: 25 small diesis up, (25S, ~5:13S, ~37S, 5C plus 5C), 2° up [53 EDO]
   classes:
   - accidentals
   - accidentalsSagittalMixed
@@ -55,7 +55,7 @@ glyphs:
   - accidentalsSagittalMixed
   - combiningStaffPositions
 - name: accSagittal35MediumDiesisUp
-  description: 35 medium diesis up, (35M, ~13M, ~125M, 5C plus 7C), 2/9-tone up
+  description: 35 medium diesis up, (35M, ~13M, ~125M, 5C plus 7C), 2/9-tone up
   classes:
   - accidentals
   - accidentalsSagittalMixed
